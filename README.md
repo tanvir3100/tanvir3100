@@ -1,7 +1,6 @@
+![web developer ](https://scontent.fdac5-2.fna.fbcdn.net/v/t39.30808-6/357711268_3501924743393026_5399518405422147384_n.jpg?stp=dst-jpg_p526x395&_nc_cat=108&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeGXaCj8zYeCZDv887YGrDwQQgpiu3Zrt-1CCmK7dmu37a2joS0RlAPCC4-D_7CwhRXd3PtrR0TakRsSGBk8P5sf&_nc_ohc=Ap-A4cHkLQsAX_dZWpe&_nc_ht=scontent.fdac5-2.fna&oh=00_AfD0HahDhYM6C5DiZtAKW0P6Z_pweAK2lousSINYPvw-RQ&oe=64A58CDE)
 ### Hi there 👋, my name is Mirajul Islam tanvir 
 #### web developer 
-![web developer ](https://scontent.fdac5-2.fna.fbcdn.net/v/t39.30808-6/312625344_3326911264227709_4969153083866258130_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=19026a&_nc_eui2=AeGMKjRN94vMUZlFCkx9hYvO-DS8btKzdBb4NLxu0rN0Fn40sTa0FQ_eE9mi30Y_G1QB6zxWJg9K3znuUDKZPgdk&_nc_ohc=BSzk8kPjoo0AX_uD7wG&_nc_ht=scontent.fdac5-2.fna&oh=00_AfBFl23wHEkROUmVDK8oESLsb7j7AwsgBpz0YEff-cCiXw&oe=64A57756)
-
 I am now in the process of learning REACT / JS / HTML / CSS. I love learning new programming skills. And try to adapt web development skills as efficiently as possible.
 
 Skills: REACT / JS / HTML / CSS
@@ -27,4 +26,4 @@ Skills: REACT / JS / HTML / CSS
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/tanvir3100)  
 
-![Profile views](https://gpvc.arturio.dev/https://github.com/tanvir3100)  
+![Profile views](https://gpvc.arturio.dev/https://github.com/tanvir3100)   
