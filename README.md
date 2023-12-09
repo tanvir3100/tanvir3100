@@ -14,6 +14,16 @@ I have been learning web development for 6 months. I started with html now I am 
 *   🤝  Open to collaborating on exciting projects and eager to embrace new experiences.
 *   ⚡   Infusing my work with a touch of humor, I strive to delight people while staying focused and dedicated. Let's connect and explore the possibilities!
 
-  Preview
+#### Preview
   -------------
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=tanvir3100&theme=material-palenight&background=45%2CFFFFFF%2CFFFFFF" alt="GitHub Streak" /></a>
+
+
+#### 💼 Tech Stack
+  -------------
+
+
+  #### 🤝 Let's Connect:
+- 📧 Email: [tanvir0046@gmail.com](mailto:YourEmail@example.com)
+- 🔗 LinkedIn: [Mirajul Islam]([https://www.linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/mirajul-islam-41276627b/))
+- 🌐 Portfolio: [Your Portfolio Website](https://www.yourportfolio.com)
