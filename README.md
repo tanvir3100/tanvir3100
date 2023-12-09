@@ -16,4 +16,4 @@ I have been learning web development for 6 months. I started with html now I am 
 
   Preview
   -------------
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=tanvir3100&theme=material-palenight&hide_border=true&background=45%2CFFFFFF%2CFFFFFF" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=tanvir3100&theme=material-palenight&background=45%2CFFFFFF%2CFFFFFF" alt="GitHub Streak" /></a>
