@@ -1,19 +1,15 @@
+![](MIRAJUL%20ISLAM%20new.png)
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is MD. Mirajul Islam
 =========================================================================================================================================
 
-Web developer
+Junior Web Developer
 -------------
 
 I have been learning web development for 6 months. I started with html now I am working with css, javascript, react, firebase, node.js, mongodb, express. And trying to make myself a Fontend web developer.
 
-*   🌍  I'm based in Bangladesh
-*   ✉️  You can contact me at [tanvir0046@gamil.com](mailto:tanvir0046@gamil.com)
-*   🚀  I'm currently working on [bistro-boss-Restaurant](http://https://github.com/tanvir3100/bistro-boss-client)
-*   🧠  I'm learning REACT, MONGODB, FIREBASE
-*   🤝  I'm open to collaborating on I am ready for interesting projects and new experiences
-*   ⚡  I always try to please people with my funny nature. But also focused on my work<a href="https://www.github.com/tanvir3100" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/tanvir3100?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>### Skills 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-                    
-               
+*   🌍  Based in Bangladesh, I am a web developer on a mission to create exceptional digital experiences.
+*   ✉️  Feel free to reach out at [tanvir0046@gamil.com](mailto:tanvir0046@gamil.com)
+*   🚀  Currently, I'm immersed in the development of [bistro-boss-Restaurant](http://https://github.com/tanvir3100/bistro-boss-client)
+*   🧠  Learning and mastering REACT, MONGODB, FIREBASE, and EXPRESS to stay at the forefront of web development.
+*   🤝  Open to collaborating on exciting projects and eager to embrace new experiences.
+*   ⚡   Infusing my work with a touch of humor, I strive to delight people while staying focused and dedicated. Let's connect and explore the possibilities!
