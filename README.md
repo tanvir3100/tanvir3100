@@ -1,7 +1,7 @@
 
 ![](MIRAJUL%20ISLAM%20new.png)
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif" width="50px" height="50px">, I'm MD. Mirajul Islam</h1>  
-Junior Web Developer
+<h3 align="center">Junior Web Developer</h3>
 
 I have been learning web development for 6 months. I started with html now I am working with css, javascript, react, firebase, node.js, mongodb, express. And trying to make myself a Fontend web developer.
 
