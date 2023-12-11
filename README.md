@@ -1,6 +1,7 @@
 
 ![](MIRAJUL%20ISLAM%20new.png)
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is MD. Mirajul Islam
+<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif" width="50px" height="50px">, I'm MD. Mirajul Islam</h1>  
 =========================================================================================================================================
 
 Junior Web Developer
