@@ -1,3 +1,4 @@
+
 ![](MIRAJUL%20ISLAM%20new.png)
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is MD. Mirajul Islam
 =========================================================================================================================================
@@ -14,7 +15,7 @@ I have been learning web development for 6 months. I started with html now I am 
 *   ⚡   Infusing my work with a touch of humor, I strive to delight people while staying focused and dedicated. Let's connect and explore the possibilities!
 
 ## Preview
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=tanvir3100&theme=material-palenight&background=45%2CFFFFFF%2CFFFFFF" alt="GitHub Streak" /></a>
+<a align="center" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=tanvir3100&theme=material-palenight&background=45%2CFFFFFF%2CFFFFFF" alt="GitHub Streak" /></a>
 
 
 ## 💼 Tech Stack
