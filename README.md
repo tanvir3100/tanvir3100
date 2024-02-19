@@ -1,8 +1,8 @@
 
 ![](MIRAJUL%20ISLAM%20new.png)
-<span align="left"> <img src="https://komarev.com/ghpvc/?username=shakilahmedatik&label=Profile%20views&color=0e75b6&style=flat" alt="shakilahmedatik" /> </span> 
+<span align="left"> <img src="https://komarev.com/ghpvc/?username=tanvir3100&label=Profile%20views&color=0e75b6&style=flat" alt="tanvir3100" /> </span> 
 <div>
-  <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif" width="50px" height="50px">, I'm MD. Mirajul Islam</h1>
+  <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/tanvir3100/tanvir3100/main/hi.gif" width="50px" height="50px">, I'm MD. Mirajul Islam</h1>
 <h3 align="center">Junior Web Developer</h3>
 </div>
 
