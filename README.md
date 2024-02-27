@@ -1,4 +1,11 @@
-
+<div>
+  </h3>
+  <h3 align="center">Welcome to my GitHub profile!
+  </h3>
+<h3 align="center">
+Follow me for helpful programming codes and updates to enhance your skills.
+</h3>
+</div>
 <img width="100%" src="https://github.com/tanvir3100/tanvir3100/blob/main/image/MIRAJUL%20ISLAM%20new.png" alt="cover" />
 <span align="left"> <img src="https://komarev.com/ghpvc/?username=tanvir3100&label=Profile%20views&color=0e75b6&style=flat" alt="tanvir3100" /> </span> 
 <div>
