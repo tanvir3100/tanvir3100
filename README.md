@@ -6,7 +6,7 @@
 Follow me for helpful programming codes and updates to enhance your skills.
 </h3>
 </div>
-<img width="100%" src="https://github.com/tanvir3100/tanvir3100/blob/main/image/MIRAJUL%20ISLAM%20new.png" alt="cover" />
+<img width="100%" src="https://github.com/tanvir3100/tanvir3100/blob/main/image/Purple%20Blue%20Neon%20Gaming%20Live%20Streaming%20Facebook%20Cover.png" alt="cover" />
 <span align="left"> <img src="https://komarev.com/ghpvc/?username=tanvir3100&label=Profile%20views&color=0e75b6&style=flat" alt="tanvir3100" /> </span> 
 <div>
   <h1 align="center">Hi <img src = "https://github.com/tanvir3100/tanvir3100/blob/main/image/hi.gif" width="50px" height="50px">, I'm MD. Mirajul Islam</h1>
